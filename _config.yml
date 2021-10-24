@@ -97,7 +97,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+<<<<<<< HEAD
 theme: landscape
+=======
+theme: yun
+>>>>>>> f88f5f3 (:pencil: update content)
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,4 +109,8 @@ deploy:
   type: git
   repo: git@github.com:WriteAPoemForYou/WriteAPoemForYou.github.io.git
   branch: master
+<<<<<<< HEAD
   message: Update Hexo Static Content
+=======
+  message: Update Hexo Static Content
+>>>>>>> f88f5f3 (:pencil: update content)
