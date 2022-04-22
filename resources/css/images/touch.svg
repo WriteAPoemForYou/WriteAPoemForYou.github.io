@@ -4,7 +4,7 @@
     <title>touch_update</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <circle id="path-1" cx="859" cy="783" r="10"></circle>
+        <circle id="path-1" cx="859" cy="783" r="24"></circle>
         <filter x="-26.0%" y="-26.0%" width="152.1%" height="152.1%" filterUnits="objectBoundingBox" id="filter-2">
             <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
             <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
@@ -18,14 +18,14 @@
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.356034873 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-    </defs> 
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Sitemap-expanded" transform="translate(-827.000000, -751.000000)" fill-rule="nonzero">
             <g id="touch_update">
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                <use fill-opacity="0.236894248" fill="#A4DEDE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill-opacity="0.236894248" fill="#E4DEDE" fill-rule="evenodd" xlink:href="#path-1"></use>
                 <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
-                <use stroke-opacity="0.625798234" stroke="#2A2A2A" stroke-width="3" xlink:href="#path-1"></use>
+                <use stroke-opacity="0.225798234" stroke="#CACACA" stroke-width="1" xlink:href="#path-1"></use>
             </g>
         </g>
     </g>
